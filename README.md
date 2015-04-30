@@ -1,2 +1,1 @@
-# training_proposal
-培训计划
+# 培训计划

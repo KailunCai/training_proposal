@@ -11,4 +11,4 @@
 
 ## 参考网站
 
-- ![logo](http://unicareer.org/wp-content/uploads/2015/04/logo_small.png)[unicareer](http://unicareer.org/)
+- [unicareer](http://unicareer.org/)
